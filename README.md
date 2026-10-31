@@ -131,4 +131,4 @@ Once you complete both items above, submit the link to your repository for lab 2
 
 ### Entity Relationship Diagram(ERD)
 
-![Entity Relationship Diagram(ERD)](https://github.com/mbonhamluc/luc_comp251_lab2/blob/main/Lab2.drawio.png)
+![Entity Relationship Diagram(ERD)](https://github.com/mbonhamluc/luc_comp251_lab2/blob/main/Lab2.png)
